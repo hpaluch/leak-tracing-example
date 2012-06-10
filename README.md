@@ -1,7 +1,7 @@
 Leak Tracing Example for Linux glibc
-==========================================================
+====================================
 
-This is simple C example to demonstrate leak diagnostics for glicb based programs.
+This is simple C example to demonstrate leak diagnostics for glibc based programs.
 
 
 Setup
@@ -11,10 +11,10 @@ Setup
 
 		yum install glibc-utils
 
-Running  application
---------------------------
+Running application
+-------------------
 
-Issue:
+Issue command:
 
 		make run
 
